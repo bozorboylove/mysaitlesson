@@ -1,0 +1,22 @@
+.name {
+    text-align: center;
+    width: 400px;
+    border: 1 solid #222;
+    height: 500px;
+    display: inline-block;
+    margin: auto;
+}
+body{
+    background-color: bisque;
+    text-align: center;
+    margin-top: 300px;
+    margin-left: 300px;
+    
+}
+table {
+    border: 1px solid #222;
+    
+}
+th, td {
+    border: 1px solid grey;
+ }

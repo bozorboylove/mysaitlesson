@@ -1,0 +1,130 @@
+.grid-container{
+    grid-template-columns: 280px 300px 150px 150px 150px 100px 100px;
+    padding: 10px;
+    border: 1px solid rgb(114, 6, 6);
+    display: grid;
+
+    
+}
+.grid-1{
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    background-color: aqua; 
+    grid-column-start: 1;
+    grid-column-end: 3;
+    
+
+
+
+}
+.grid-2{
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(8, 139, 139); 
+    grid-column-end: span 2;
+ 
+    
+    
+   
+
+}
+.grid-3{
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(35, 86, 238); 
+    
+    
+    
+    
+}
+.grid-4{
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(175, 157, 245); 
+
+
+    
+  
+    
+}
+.grid-5{
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(180, 221, 16); 
+    grid-column-start: 1;
+    grid-column-end: 2;
+    
+    
+}
+.grid-6{
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(38, 217, 28); 
+    grid-column-start: 2;
+    grid-column-end: 3;
+ 
+    
+
+}
+.grid-7{
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(255, 19, 239); 
+    grid-column-start: 6;
+    
+
+}
+.grid-8{
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(90, 245, 196); 
+    grid-column-end: 2;
+    
+
+}
+.grid-9{
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(168, 211, 147); 
+    
+}
+.grid-10{
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(138, 80, 185); 
+    grid-column-start: 5;
+    grid-column-end: 3;
+    
+
+}
+.grid-11{
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(232, 181, 40); 
+    grid-column-start: 7;
+    grid-column-end: 5;
+    
+
+}
